@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Stimmzettel.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Kandidaten" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rolland Revell;Elnora Ebling;Eugenie Ehrlich;Michell Monge;Gertie Gearheart;Mertie Melrose;Irina Inks;Darnell Dewolf;Eugenio Eichhorn;Kathaleen Killam;Parthenia Pinedo;Freida Fuson;Vannessa Vaillancourt</Value>
+    </Setting>
+    <Setting Name="AnzahlStimmzettelbisBackup" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="X_Checkbox" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="Y_Checkbox" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="MaximaleAuswahl" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="WindowWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">559</Value>
+    </Setting>
+    <Setting Name="WindowHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">914</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
