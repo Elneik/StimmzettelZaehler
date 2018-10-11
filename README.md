@@ -1,7 +1,7 @@
 # StimmzettelZaehler
 Tool zum auszählen von Stimmzetteln
 
-
+![alt text](https://github.com/Elneik/StimmzettelZaehler/blob/master/Stimmzettel/Example.JPG)
 
 # Disclaimer
 
