@@ -12,7 +12,7 @@ Thanks to Jarek Kowalski,Kim Christensen,Julian Verdurmen and Jens Thiel
 
 MIT License
 
-Copyright (c) 2018 Elneik
+Copyright (c) 2018 Benjamin Kienle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
