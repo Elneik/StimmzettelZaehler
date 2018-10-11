@@ -1,3 +1,15 @@
+# StimmzettelZaehler
+Tool zum auszählen von Stimmzetteln
+
+
+
+# Disclaimer
+
+This program uses Nlog (https://nlog-project.org/) and MetroFramework.Design(http://thielj.github.io/MetroFramework/)
+Thanks to Jarek Kowalski,Kim Christensen,Julian Verdurmen and Jens Thiel
+
+# Licence
+
 MIT License
 
 Copyright (c) 2018 Benjamin Kienle
